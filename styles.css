@@ -1,0 +1,35 @@
+body{
+    background-color: tan;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+    color: #4b5320;
+}
+
+h2{
+    color: tan;
+}
+
+#box{
+border: orangered;
+background-color: orangered;
+padding: 3em;
+text-align: center;
+width: 12em;
+}
+
+#button1{
+    border:2px solid #4b5320 ;
+    background-color: tan;;
+
+}
+#button1:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #4b5320 ;
+    color: tan;
+
+}
